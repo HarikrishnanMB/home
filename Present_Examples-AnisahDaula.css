@@ -1,0 +1,35 @@
+body {
+	background-color: rgb(221, 147, 210);
+}
+h1 {
+	color: rgb(156, 15, 137);
+	text-align: center;
+	font-size: 28pt;
+}
+th {
+	background-color: rgb(241, 30, 153);
+	font-size: 14pt;
+ 
+}
+td{
+	background-color:rgb(234, 170, 236);
+	font-size: 14pt;
+}
+ 
+.topnav a {
+	float: left;
+	color: white;
+	padding: 14pt 16pt;
+	text-decoration: none;
+	font-size: 17pt;
+}
+.topnav {
+	overflow: hidden;
+	background-color:rgb(156, 15, 137) ;
+  }
+
+.webpages
+{
+	text-align: center;
+}
+

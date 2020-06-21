@@ -1,0 +1,41 @@
+/* CSS for History of Motherboards - Harikrishnan Malli Bhuvanesh */
+body
+{
+	background-color:lightblue;
+	font-family: Cambria;
+}
+
+#title
+{
+	background-color: brown;
+	color: white;
+	font-size: 50px;
+}
+
+img
+{
+	width:300px;
+}
+
+h3 
+{
+	background-color: Aqua;
+}
+
+#special
+{
+	width: 700px;
+	border-style: solid
+}
+
+#last-paragraph
+{
+	text-align: center;
+	background-color: #F5836B;
+}
+
+.webpages
+{
+	text-align: center;
+	background-color: Aqua;
+}

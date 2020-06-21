@@ -1,0 +1,29 @@
+/* CSS for References*/
+body
+{
+	background-color:#8DD551;
+	font-family: Cambria;
+}
+
+#title
+{
+	background-color: brown;
+	color: white;
+	font-size: 50px;
+}
+
+
+h2 
+{
+	background-color: Aqua;
+}
+
+.webpages
+{
+	text-align: center;
+}
+
+.subtitles 
+{
+	background-color: #E69749;
+}
